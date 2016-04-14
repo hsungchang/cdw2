@@ -20,8 +20,11 @@
 </v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
+<v t="amd.20160405203555.1"><vh>@edit scrum1-20160329.md </vh></v>
+<v t="amd.20160408224929.1"><vh>@edit scrum1-20160408.md</vh></v>
 <v t="amd.20160329174131.1" a="E"><vh>@path ag100</vh>
 <v t="amd.20160329174139.1"><vh>@clean scrum1-20160329.md</vh></v>
+<v t="amd.20160412220701.1"><vh>@clean scrum1-20160412.md</vh></v>
 </v>
 </v>
 </v>
@@ -48,12 +51,12 @@ g.es("admin pelican 執行完畢")
 </t>
 <t tx="amd.20160329174131.1"></t>
 <t tx="amd.20160329174139.1">@language md
-Title: scrum1-回報 ag100 scrum1 初步繪圖主機與連結
-Category: ag100
+Title: scrum1-回報 bg5 scrum1 初步繪圖主機與連結
+Category: bg5
 Tags: scrum1, task1
 Author: kmol
 @others
-ag100 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+bg5 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組員 scrum1.leo 並且完成 Task1 的繪圖藍圖建立與註冊
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
@@ -62,5 +65,20 @@ ag100 組員 scrum1 已經在 cdw2 倉儲中的 master 分支建立對應的組�
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
 </t>
 <t tx="amd.20160329211330.1"></t>
+<t tx="amd.20160412220701.1">@language md
+Title: scrum1-Onshape 鏈條組件
+Category: ag100
+Tags: scrum1, task1, onshape
+Author: kmol
+@others
+Scrum1 已經完成 Onshape 基本鏈條組件的繪圖.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="https://cad.onshape.com/documents/29d1a262b055745e59be7c09/w/1f25948ad73282e2440ffdcf"&gt;bicycle chain Onshape Document&lt;/a&gt;
+
+&lt;a href="https://cad.onshape.com/documents/29d1a262b055745e59be7c09/w/1f25948ad73282e2440ffdcf/e/60bc24e9ffd5d1ef3544c1a9"&gt;Onshpae 鏈條組立件&lt;/a&gt;
+
+&lt;img src="http://chiamingyen.github.io/kmolab_data/files/onshape_bike_chain_assembly.png" width="600" /&gt;</t>
 </tnodes>
 </leo_file>
