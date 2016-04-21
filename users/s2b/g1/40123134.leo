@@ -28,7 +28,7 @@
 <t tx="amd.20160329124554.2"></t>
 <t tx="amd.20160329124849.1">@language md
 Title: 40123134scrum1-回報 g1 scrum1 初步繪圖主機與連結
-Category: bg2
+Category: bg1
 Tags: scrum1, task1, 40123134
 Author: kmol
 @others
