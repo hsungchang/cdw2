@@ -14,7 +14,11 @@
 <find_panel_settings/>
 <vnodes>
 <<<<<<< HEAD
+<v t="leo.20160310102708.1"><vh>@edit scrum2_task40323216.py</vh></v>
+=======
+<<<<<<< HEAD
 <v t="leo.20160310102708.1"><vh>@edit scrum2_task40323236.py</vh></v>
+>>>>>>> 9dc96c34b3a6f9dc46cfbce7adac69e6e778f341
 <v t="leo.20160310102803.1" a="E"><vh>@path ../../../</vh>
 <v t="leo.20160310102838.1"><vh>@edit myflaskapp.py</vh></v>
 </v>
