@@ -11,6 +11,7 @@
 <find_panel_settings/>
 <vnodes>
 <v t="amd.20160329211330.1"><vh>因為位於 users/s2a/g100 目錄, 必須跳三層才到外圍</vh></v>
+<v t="leo.20160417162946.1"><vh>@edit 40323115.html</vh></v>
 <v t="amd.20160329124554.2" a="E"><vh>@path ./../../../</vh>
 <v t="amd.20160329164739.1" a="E"><vh>假如要送到 gh-pages 分支, 使用下列按鈕</vh>
 <v t="amd.20160329164739.2"><vh>@button gh-pages pelican</vh></v>
@@ -21,7 +22,7 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329174131.1" a="E"><vh>@path ag10</vh>
-<v t="amd.20160329174139.1"><vh>@clean 40323115-20160329.md</vh></v>
+<v t="amd.20160329174139.1"><vh>@clean 40323115-20160418.md</vh></v>
 </v>
 </v>
 </v>
@@ -50,14 +51,14 @@ g.es("admin pelican 執行完畢")
 <t tx="amd.20160329174139.1">@language md
 Title: 40323115-回報 ag10 40323115 初步繪圖主機與連結
 Category: ag10
-Tags: 40323115, task1
+Tags: 40323115 task1
 Author: 40323115
 @others
-ag10 組員 40323115 已經在 cdw2 倉儲中的 master 分支建立對應的組員 40323115.leo 並且完成 Task1 的繪圖藍圖建立與註冊
+ag10 組員 40323115已經在 cdw2 倉儲中的 master 分支建立對應的組員 40323115.leo 並且完成 Task1 的繪圖藍圖建立與註冊
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1"&gt;http://cdw2-ag100.rhcloud.com/ag100/scrum1_task1&lt;/a&gt;
+目前所完成的 OpenShift 對應繪圖連結為: &lt;a href="http://g10-40323139.rhcloud.com/ag10/scrum1_task1"&gt;http://g10-40323139.rhcloud.com/ag10/scrum1_task1&lt;/a&gt;
 
 其中已經在主程式中導入 scrum1_task1.py 中的 scrum1_task1 藍圖變數, 並且複製範例中的鏈條繪圖 ,準備進一步完成 Task1 協同任務.
 </t>
