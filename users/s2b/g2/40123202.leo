@@ -48,7 +48,7 @@ g.es("admin pelican 近端執行完畢")
 <t tx="leo.20160421091128.1"></t>
 <t tx="leo.20160421091141.1"></t>
 <t tx="leo.20160421091214.1">@language md
-Title: 40123235 - 期中報告
+Title: 40123202 - 期中報告
 Category: bg2
 Tags: scrum1, task1, 40123202
 Author: 40123202

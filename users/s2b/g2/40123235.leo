@@ -59,21 +59,23 @@ Author: 40123235
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-自評分數:80
+&lt;h2&gt;自評分數:80
 
-&lt;h2&gt;md檔:fork cdw2並且git clone下來切換分支到 gh-pages,在content目錄下新增組別資料夾
+&lt;h2&gt;md檔:從2015fallhwfork cdw2並且git clone下來切換分支到 gh-pages,在content目錄下新增組別資料夾
 
 &lt;img src="./../files/bg2/1.png"&gt;
 
-在cdw2=&gt;users=&gt;s2b=&gt;bg2下新增個人的leo檔,在裡面新增md檔,內容打在裡面
+在cdw2=&gt;users=&gt;s2b=&gt;bg2下新增個人的.leo檔,在裡面新增md檔,將期中自評內容打進去
 
 &lt;img src="./../files/bg2/2.png"&gt;
 
-&lt;h2&gt;繪ABCD:需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案如圖所示
+&lt;h2&gt;繪ABCD:繪製自己負責的部分，需在master分支下執行,需先在myflaskapp.py註冊各組組員的檔案如圖所示
 
 &lt;img src="./../files/bg2/3.png"&gt;
 
 &lt;img src="./../files/bg2/4.png"&gt;
+
+&lt;img src="./../files/bg2/9.png"&gt;
 
 繪圖程式採用老師給的scrum1及scrum2,scrum1放在組別leo裡作為統組所有組員
 
@@ -87,7 +89,11 @@ scum2的內容所用
 
 &lt;img src="./../files/bg2/7.png"&gt;
 
-上述完成後須先python wsgi.py在近端測試可否執行
+上述完成後須先python wsgi.py在近端測試可否執行，如果可執行，會在localhost:5000/g2/scrum1_task40123235顯示出來。
+
+&lt;img src="./../files/bg2/8.png"&gt;
+
+近端測試完後即可推上openshift的遠端網頁。
 
 &lt;a href="http://cdw2-cadp13ag35.rhcloud.com/g2/scrum1_task40123235"&gt;bg2-openshift&lt;/a&gt; 
 </t>
